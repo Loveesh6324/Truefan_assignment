@@ -12,9 +12,9 @@ This project is a Django-based RESTful API for managing a product inventory. It 
 
 ## Requirements
 
-- Python 3.8+
-- Django 3.2.12
-- Django REST Framework 3.12.4
+- Python
+- Django 
+- Django REST Framework
 - Docker
 
 ## Installation
