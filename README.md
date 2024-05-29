@@ -65,8 +65,6 @@ To run the project in a Docker container, follow these steps:
    ```bash
    docker-compose up
 
-
-
 ## Access the API:
 
 Open your browser and navigate to http://localhost:8000/api/products/
